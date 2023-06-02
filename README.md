@@ -1,7 +1,5 @@
 Hey there I'm Sachin
 
-version :26.12.2021   profile count  GitHub kanmaytacker  build: passing
-
 👨🏻‍💻  About Me
 💡 I'm a Computer Science Engineer  who has spent 4+ years building scalable distributed systems and optimisation engines.
 
